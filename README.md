@@ -75,7 +75,9 @@ We can improve performance by deploying smart sensors, machine learning models f
 
 ## 4. Prompt Size Limitations
 
-![image](https://github.com/user-attachments/assets/32be719e-e181-4d2b-8711-0f1476265c01)
+
+![image](https://github.com/user-attachments/assets/106c5128-f8e2-4239-8c7a-22062e7cbba8)
+
 
 
 
